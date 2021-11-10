@@ -17,13 +17,13 @@
         * [Printing faded on one side](410PrintFade)
 
     * **ZT411**
-        * [Load/Reload Media & Ribbon]
-        * [Perform Media Caliberation]
-        * [Perform Feeding]
-        * [Perform RFID Caliberation]
-        * [Perform Test Printing]
-        * [Rectify RFID Calibration Fail]
-        * [Offset Print Position]
-        * [Relocated/Not Used Printer for a While]
-        * [Cancel Printing Job]
-        * [Printing faded on one side]
+        * [Load/Reload Media & Ribbon](411Load)
+        * [Perform Media Caliberation](411MediaCali)
+        * [Perform Feeding](411Feeding)
+        * [Perform RFID Caliberation](411RFIDCali)
+        * [Perform Test Printing](411TestPrint)
+        * [Rectify RFID Calibration Fail](411Rectify)
+        * [Offset Print Position](411Offset)
+        * [Relocated/Not Used Printer for a While](411Relocated)
+        * [Cancel Printing Job](411CancelPrintJob)
+        * [Printing faded on one side](411PrintFade)
